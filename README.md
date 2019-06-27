@@ -5,8 +5,8 @@ Javaプログラミング研修のチーム演習による成果物になりま�
 ログイン機能  
   
 ## 作成ファイル
--LoginAction.java  
--GoLoginAction.java  
--struts.xml
-  -login.jsp  
-  -systemError.html
+- LoginAction.java  
+- GoLoginAction.java  
+- struts.xml
+  - login.jsp  
+  - systemError.html
