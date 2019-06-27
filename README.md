@@ -1,5 +1,3 @@
-<style> body { font-size: 8px } </style>
-
 # teamEcsite  
 Javaプログラミング研修のチーム演習による成果物になります。
   
